@@ -1,1 +1,1 @@
-hackmyresume build resume.json TO out/resume.all
+hackmyresume build resume.json TO out/resume.all -t node_modules/jsonresume-theme-eloquent

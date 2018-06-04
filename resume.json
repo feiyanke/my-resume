@@ -11,7 +11,7 @@
     "label": "Senior Developer",
     "characterClass": "Programmer",
     "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
-    "image": "head.png",
+    "image": "../head.png",
     "quote": "Be the change you want to see in the world."
   },
 
