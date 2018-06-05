@@ -8,28 +8,28 @@
   },
 
   "info": {
-    "label": "Senior Developer",
+    "label": "Software Engineer",
     "characterClass": "Programmer",
-    "brief": "**Imaginary full-stack software developer with 6+ years industry experience** specializing in cloud-driven web applications and middleware. A native of southern CA, Jane enjoys hiking, mystery novels, and the company of Rufus, her two year old beagle.",
-    "image": "../head.png",
+    "brief": "10+年程序设计经验，善于发现问题和解决问题",
+    "image": "../head2.jpg",
     "quote": "Be the change you want to see in the world."
   },
 
   "contact": {
-    "website": "https://www.janeblogs.com",
+    "website": "http://feiyanke.bitcron.com/",
     "phone": "15210983528",
     "email": "feiyanke@gmail.com",
     "other": [
       {
         "label": "Personal Email",
         "flavor": "email",
-        "value": "jane@janeblogs.com"
+        "value": "feiyanke@126.com"
       }
     ]
   },
 
   "location": {
-    "address": "",
+    "address": "光华北二路中铁西城东苑",
     "city": "成都",
     "region": "青羊区",
     "code": "610000",
@@ -38,42 +38,14 @@
 
   "projects": [
     {
-      "title": "HackMyResume",
-      "category": "FOSS",
-      "role": "contributor",
-      "url": "https://fluentdesk.com/hackmyresume",
-      "start": "2015-09",
-      "repo": "https://github.com/hacksalot/hackmyresume",
-      "description": "A resume authoring and analysis tool for OS X, Linux, and Windows.",
-      "summary": "Exemplar user for HackMyResume and FluentCV!",
-      "keywords": ["JavaScript", "Node.js", "cross-platform", "JSON"],
-      "media": [
-        {
-          "category": "download",
-          "url": "https://www.npmjs.com/package/hackmyresume"
-        }
-      ]
-    },
-    {
-      "title": "Augmented Android",
-      "category": "commercial",
-      "role": "co-creator",
-      "url": "https://project.website.com",
-      "repo": "https://repo.website.com",
-      "description": "An augmented reality app for Android.",
-      "start": "2012-02",
-      "end": "2014-01",
-      "summary": "Performed flagship product conceptualization and development.",
-      "keywords": ["Android", "Java", "Xamarin"]
-    },
-    {
-      "title": "Blog",
-      "category": "personal",
-      "role": "creator",
-      "url": "https://www.janeblogs.com",
-      "description": "My programming blog. Powered by Jekyll.",
-      "summary": "Conceptualization, design, development, and deployment.",
-      "keywords": ["Jekyll", "Ruby", "HTML 5", "JavaScript", "HTTP", "LAMP"]
+      "title": "奥叮机器人",
+      "category": "智能硬件",
+      "role": "初创成员",
+      "url": "http://www.odingbot.com/",
+      "start": "2015-08",
+      "description": "智能机器人",
+      "summary": "奥叮机器人是一款语音交互机器人，具有灵活的姿态运动能力，可以用于家庭娱乐，智能控制，儿童陪伴等",
+      "keywords": ["C", "Robot", "Java"]
     }
   ],
 
@@ -84,12 +56,17 @@
       "network": "GitHub",
       "user": "feiyanke",
       "url": "https://github.com/feiyanke"
+    },
+	
+	{
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "user": "feiyanke",
+      "url": "www.linkedin.com/in/feiyanke"
     }
   ],
 
   "employment": {
-
-    "summary": "7年以上软件开发经验",
 
     "history": [
 
@@ -111,11 +88,13 @@
         "summary": "负责无人机地面站相关的软件研发",
         "start": "2014-06",
         "end": "2015-08",
-        "keywords": ["C", "C#", "Android", "地图"]
+        "keywords": ["C", "C#", "Android", "地图"],
+		"highlights": ["推动了PC端地面站软件的迭代和Android端App的研发"]
       },
 
       {
         "employer": "成都英博格科技有限公司",
+		"url": "http://www.ebgbot.com/",
         "position": "高级软件工程师",
         "summary": "负责公司机器人相关的软件研发",
         "start": "2015-8",
@@ -129,96 +108,26 @@
 
   "education": {
 
-    "summary": "",
-
-    "level": "degree",
-
-    "degree": "BSCS",
-
     "history": [
 
       {
         "institution": "电子科技大学",
-        "title": "本科",
+        "studyType": "本科",
         "url": "http://www.uestc.edu.cn/",
         "start": "2005-09",
         "end": "2009-06",
         "grade": "",
-        "summary": "优秀毕业生",
-        "curriculum": ["Course 1", "Course 2", "Course 2"]
+        "summary": "优秀毕业生"
       },
 
       {
         "institution": "北京航空航天大学",
-        "title": "研究生",
+        "studyType": "研究生",
         "url": "http://www.buaa.edu.cn/",
         "start": "2009-09",
         "end": "2012-02",
         "grade": "",
-        "summary": "优秀毕业生",
-        "curriculum": ["Course 1", "Course 2", "Course 2"]
-      }
-    ]
-
-  },
-
-  "affiliation": {
-    "summary": "Member of numerous collegiate and professional groups and organizations.",
-    "history": [
-      {
-        "role": "Member",
-        "organization": "IEEE",
-        "url": "https://www.ieee.org/index.html",
-        "start": "2013-06",
-        "summary": "Member in good standing since 2013-06."
-      },
-      {
-        "role": "Member",
-        "organization": "Apple Developer Network",
-        "url": "https://developer.apple.com/",
-        "summary": "Member of the [Apple Developer program](https://developer.apple.com/) since 2008."
-      },
-      {
-        "role": "Subscriber",
-        "organization": "MSDN",
-        "url": "https://msdn.microsoft.com",
-        "start": "2010",
-        "summary": "Super-Ultra-gold level Ultimate Access MSDN subscriber package with subscription toaster and XBox ping pong racket."
-      },
-      {
-        "role": "Coordinator",
-        "organization": "Campus Coder's Meetup",
-        "start": "2003-02",
-        "end": "2004-04",
-        "summary": "Host of a monthly **campus-wide meetup for CS students**. Code, coffee, and crullers!"
-      }
-    ]
-  },
-
-  "service": {
-
-    "summary": "Active US Army Reserve member and Technology for Tots technical consultant and volunteer coordinator.",
-
-    "history": [
-      {
-        "flavor": "volunteer",
-        "position": "Technical Consultant",
-        "organization": "Technology for Tots",
-        "url": "http://technology-for-tots.org",
-        "start": "2003-11",
-        "end": "2005-06",
-        "summary": "Summary of this volunteer stint.",
-        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
-      },
-      {
-        "flavor": "military",
-        "position": "NCO",
-        "organization": "US Army Reserves",
-        "url": "http://www.usar.army.mil/",
-        "start": "1999-11",
-        "end": "2003-06",
-        "summary": "Summary of this military stint.",
-        "highlights": ["Accomplishment 1", "Accomplishment 2", "etc"]
+        "summary": "优秀毕业生"
       }
     ]
 
@@ -231,216 +140,45 @@
         "name": "C",
         "level": "advanced",
         "skills": [
-          "ARM Cortxt", "STM32", "RTOS"
+          "Embedded", "STM32", "RTOS"
         ]
       },
       {
         "name": "Java",
         "level": "advanced",
         "skills": [
-          "Android", "Kotlin", "Back-End"
+          "Android", "BackEnd", "Kotlin"
         ]
       },
       {
-        "name": "Database",
+        "name": "Others",
         "level": "intermediate",
-        "skills": [
-          "MySQL", "PostgreSQL", "NoSQL", "ORM", "Hibernate"
-        ]
-      },
-      {
-        "name": "Python",
-        "level": "intermediate",
-        "skills": []
-      }
-    ],
-
-    "list": [
-      {
-        "name": "C++",
-        "id": "1",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "9",
-        "years": 7,
-        "proof": "http://myblog.com/interesting-cplusplus-post"
-      },
-      {
-        "name": "Ruby",
-        "id": "2",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "9",
-        "years": 7,
-        "proof": "http://myblog.com/interesting-cplusplus-post"
-      },
-      {
-        "name": "Xcode",
-        "summary": "Xcode 6 development.",
-        "level": "5",
-        "years": "3"
-      },
-      {
-        "name": "Linux",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "advanced",
-        "years": "4+"
-      },
-      {
-        "name": "Agile",
-        "summary": "Optional summary of your experience with the skill.",
-        "level": "B+",
-        "years": 2
+        "skills": ["Python", "Matlab", "Database", "DSP", "Etc."]
       }
     ]
   },
 
-  "samples": [
-    {
-      "title": "Asteroids",
-      "summary": "A browser-based space shooter built on Three.js.",
-      "url": "http://janeblogs.com/portfolio/asteroids",
-      "date": "2014-09"
-    },
-    {
-      "title": "Rememberpedia",
-      "summary": "A website to help you remember things.",
-      "url": "https://rememberpedia.com",
-      "date": "2015-07"
-    }
-  ],
-
   "writing": [
     {
       "title": "《ThinkDsp》中文翻译",
-      "flavor": "book",
+      "flavor": "ebook",
       "date": "2018",
-      "publisher": {
-        "name": "Amazon",
-        "url": "https://www.amazon.com"
-      },
       "url": "http://thinkdsp-cn.readthedocs.io/zh_CN/latest/",
       "author": [ "Allen Downey"],
-      "summary": "ThinkDsp"
-    },
-    {
-      "title": "Building User Interfaces with Electron and Atom",
-      "flavor": "article",
-      "date": "2011",
-      "publisher": {
-        "name": "Code Project",
-        "url": "http://codeproject.com"
-      },
-      "url": "http://codeproject.com/build-ui-electron-atom.aspx"
-    },
-    {
-      "title": "Jane Fullstacker's Blog",
-      "flavor": "blog",
-      "date": "2011",
-      "publisher": {
-        "name": "self",
-        "url": "https://www.janeblogs.com"
-      },
-      "url": "https://www.janeblogs.com"
-    }
-  ],
-
-  "reading": [
-    {
-      "title": "r/programming",
-      "flavor": "website",
-      "url": "https://www.reddit.com/r/programming/",
-      "summary": "Daily reader and longtime lurker."
-    },
-    {
-      "title": "Hacker News / YCombinator",
-      "flavor": "website",
-      "url": "https://news.ycombinator.com/",
-      "summary": "Daily reader and longtime lurker."
-    },
-    {
-      "title": "Coding Horror",
-      "flavor": "blog",
-      "url": "http://www.codinghorror.com",
-      "author": "Jeff Atwood",
-      "summary": "Reader since 2007; member of the StackOverflow Beta."
-    },
-    {
-      "title": "Code Complete",
-      "flavor": "book",
-      "url": "http://www.cc2e.com/Default.aspx",
-      "author": "Steve McConnell",
-      "date": "2014-09",
-      "summary": "My 'desert-island' software construction manual."
-    }
-  ],
-
-  "speaking": [
-    {
-      "title": "Data Warehousing Evolved: DARMA 2.0",
-      "role": "Speaker",
-      "event": "OPENSTART 2013 Developer's Conference",
-      "location": "Portland, OR",
-      "date": "2012",
-      "highlights": [
-        "Won 'Best Presentation on an Emerging Technical Field' prize."
-      ]
+      "summary": "ThinkDsp Chinese Translation"
     }
   ],
 
   "recognition": [
     {
       "flavor": "award",
-      "from": "Google",
-      "title": "Honorable Mention",
-      "event": "Summer of Code",
-      "date": "2012"
-    },
-    {
-      "flavor": "honor",
-      "from": "Cornell University",
-      "title": "Summa cum laude",
-      "event": "graduation",
-      "date": "2012"
+      "from": "Robocon China",
+      "title": "Robocon China First Prize",
+      "event": "Robocon China",
+      "date": "2008"
     }
   ],
 
-  "references": [
-    {
-      "name": "John Davidson",
-      "flavor": "professional",
-      "private": true,
-      "contact": [
-        {
-          "label": "Mobile",
-          "flavor": "phone",
-          "value": "9-(999)-999-9999"
-        },
-        {
-          "label": "Work email",
-          "flavor": "email",
-          "value": "jdavidson@veridiandynamics.com"
-        }
-      ]
-    }
-  ],
-
-  "testimonials": [
-    {
-      "name": "John Davidson",
-      "flavor": "professional",
-      "quote": "Jane is awesome! I'd hire her again in a heartbeat.",
-      "private": true
-    },
-    {
-      "name": "Elias Fullstacker",
-      "flavor": "technical",
-      "quote": "I worked with Jane on Jabberwocky and can vouch for her awesome technical capabilities and attention to detail. Insta-hire."
-    },
-    {
-      "name": "Dana Nevins",
-      "flavor": "personal",
-      "quote": "I've known Jane personally and professionally for almost ten years. She is one in a million."
-    }
-  ],
 
   "languages": [
     {
@@ -454,55 +192,9 @@
     }
   ],
 
-  "extracurricular": [
-    {
-      "title": "Bay Area Crew Club",
-      "activity": "",
-      "location": "San Francisco, CA",
-      "start": "2014-05"
-    },
-    {
-      "title": "Organizer / Manager",
-      "activity": "JavaScript Game Development Meetup",
-      "location": "Austin, TX",
-      "start": "2011-03",
-      "end": "2014-01",
-      "highlights": [
-        "Monthly speaker on creative JavaScript development.",
-        "Founded group and oversaw growth to 500+ members."
-      ]
-
-    }
-  ],
-
-  "governance": [
-    {
-      "flavor": "board",
-      "role": "Member",
-      "organization": "The Mommies Network",
-      "url": "http://themommiesnetwork.org",
-      "start": "2008-02",
-      "end": "2010-01",
-      "summary": "Since 2008 I've been a full-time member of the board of directors for TMN."
-    },
-    {
-      "flavor": "committee",
-      "role": "Academic Contributor",
-      "organization": "Khronos Group",
-      "url": "https://www.khronos.org",
-      "start": "2015-01",
-      "highlights": [
-        "Participated in GORFF standardization process (Draft 2)."
-      ]
-    }
-  ],
-
   "interests": [
     {
       "name": "篮球"
-    },
-    {
-      "name": "音乐"
     }
   ]
 
