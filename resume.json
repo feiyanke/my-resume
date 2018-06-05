@@ -42,7 +42,7 @@
       "category": "智能硬件",
       "role": "初创成员",
       "url": "http://www.odingbot.com/",
-      "start": "2015-08",
+      "start": "2015-08-01",
       "description": "智能机器人",
       "summary": "奥叮机器人是一款语音交互机器人，具有灵活的姿态运动能力，可以用于家庭娱乐，智能控制，儿童陪伴等",
       "keywords": ["C", "Robot", "Java"]
@@ -75,10 +75,14 @@
         "url": "http://www.analog.com",
         "position": "软件工程师",
         "summary": "负责SOC芯片的相关软件研发",
-        "start": "2011-10",
-		"end": "2014-6",
+        "start": "2011-10-01",
+		"end": "2014-06-01",
         "keywords": ["C","C#","DSL","ARM","滤波算法","非线性校正算法","定点运算"],
-        "highlights": ["推动DSL在新产品中的使用"]
+        "highlights": [
+			"搭建FPGA原型系统", 
+			"推动DSL在新产品中的使用",
+			"数字滤波器等算法设计以及定点优化"
+		]
       },
 
       {
@@ -86,10 +90,12 @@
         "url": "http://www.jouav.com/",
         "position": "高级软件工程师",
         "summary": "负责无人机地面站相关的软件研发",
-        "start": "2014-06",
-        "end": "2015-08",
+        "start": "2014-06-01",
+        "end": "2015-08-01",
         "keywords": ["C", "C#", "Android", "地图"],
-		"highlights": ["推动了PC端地面站软件的迭代和Android端App的研发"]
+		"highlights": [
+			"推动了PC端地面站软件的迭代和Android端App的研发"
+		]
       },
 
       {
@@ -97,9 +103,13 @@
 		"url": "http://www.ebgbot.com/",
         "position": "高级软件工程师",
         "summary": "负责公司机器人相关的软件研发",
-        "start": "2015-8",
+        "start": "2015-08-01",
         "keywords": ["C","Java", "Android", "Kotlin", "机器人运动控制", "语音交互", "智能家居", "STM32"],
-        "highlights": ["实现了高效的运动控制算法"]
+        "highlights": [
+			"设计并实现了高效的机器人运动控制算法",
+			"搭建了机器人语音交互系统",
+			"搭建了基于语音的智能家居控制平台"
+		]
       }
 
     ]
@@ -112,20 +122,22 @@
 
       {
         "institution": "电子科技大学",
-        "studyType": "本科",
+        "studyType": "学士",
+		"area": "自动化",
         "url": "http://www.uestc.edu.cn/",
-        "start": "2005-09",
-        "end": "2009-06",
+        "start": "2005-09-01",
+        "end": "2009-06-01",
         "grade": "",
         "summary": "优秀毕业生"
       },
 
       {
         "institution": "北京航空航天大学",
-        "studyType": "研究生",
+        "studyType": "硕士",
+		"area": "控制理论与控制工程",
         "url": "http://www.buaa.edu.cn/",
-        "start": "2009-09",
-        "end": "2012-02",
+        "start": "2009-09-01",
+        "end": "2012-02-01",
         "grade": "",
         "summary": "优秀毕业生"
       }
@@ -162,7 +174,7 @@
     {
       "title": "《ThinkDsp》中文翻译",
       "flavor": "ebook",
-      "date": "2018",
+      "date": "2018-06-01",
       "url": "http://thinkdsp-cn.readthedocs.io/zh_CN/latest/",
       "author": [ "Allen Downey"],
       "summary": "ThinkDsp Chinese Translation"
@@ -175,7 +187,7 @@
       "from": "Robocon China",
       "title": "Robocon China First Prize",
       "event": "Robocon China",
-      "date": "2008"
+      "date": "2008-08-01"
     }
   ],
 
