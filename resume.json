@@ -18,14 +18,7 @@
   "contact": {
     "website": "http://feiyanke.bitcron.com/",
     "phone": "15210983528",
-    "email": "feiyanke@gmail.com",
-    "other": [
-      {
-        "label": "Personal Email",
-        "flavor": "email",
-        "value": "feiyanke@126.com"
-      }
-    ]
+    "email": "feiyanke@126.com"
   },
 
   "location": {
