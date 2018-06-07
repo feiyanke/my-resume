@@ -16,7 +16,6 @@
   },
 
   "contact": {
-    "website": "http://feiyanke.bitcron.com/",
     "phone": "15210983528",
     "email": "feiyanke@126.com"
   },
@@ -72,9 +71,9 @@
 		"end": "2014-06-01",
         "keywords": ["C","C#","DSL","ARM","滤波算法","非线性校正算法","定点运算"],
         "highlights": [
-			"搭建FPGA原型系统", 
+			"负责搭建FPGA原型系统", 
 			"推动DSL在新产品中的使用",
-			"数字滤波器等算法设计以及定点优化"
+			"DSP算法设计以及定点优化"
 		]
       },
 
@@ -87,7 +86,8 @@
         "end": "2015-08-01",
         "keywords": ["C", "C#", "Android", "地图"],
 		"highlights": [
-			"推动了PC端地面站软件的迭代和Android端App的研发"
+			"负责管理PC端地面站软件的迭代",
+			"负责Android端App的研发"
 		]
       },
 
@@ -165,7 +165,7 @@
 
   "writing": [
     {
-      "title": "《ThinkDsp》中文翻译",
+      "title": "译著《ThinkDsp》",
       "flavor": "ebook",
       "date": "2018-06-01",
       "url": "http://thinkdsp-cn.readthedocs.io/zh_CN/latest/",
