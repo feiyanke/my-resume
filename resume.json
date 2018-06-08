@@ -71,9 +71,9 @@
 		"end": "2014-06-01",
         "keywords": ["C","C#","DSL","ARM","滤波算法","非线性校正算法","定点运算"],
         "highlights": [
-			"负责搭建FPGA原型系统", 
-			"推动DSL在新产品中的使用",
-			"DSP算法设计以及定点优化"
+			"负责片内嵌入式软件开发(**C**)", 
+			"推动DSL在新产品中的使用(**DSL**,**C#**)",
+			"DSP算法设计以及定点优化(**C**,**Matlab**)"
 		]
       },
 
@@ -86,8 +86,8 @@
         "end": "2015-08-01",
         "keywords": ["C", "C#", "Android", "地图"],
 		"highlights": [
-			"负责管理PC端地面站软件的迭代",
-			"负责Android端App的研发"
+			"负责管理PC端地面站软件的迭代(**C**,**C#**)",
+			"负责Android端App的研发(**Android**)"
 		]
       },
 
@@ -99,9 +99,9 @@
         "start": "2015-08-01",
         "keywords": ["C","Java", "Android", "Kotlin", "机器人运动控制", "语音交互", "智能家居", "STM32"],
         "highlights": [
-			"设计并实现了高效的机器人运动控制算法",
-			"搭建了机器人语音交互系统",
-			"搭建了基于语音的智能家居控制平台"
+			"设计并实现了高效的机器人运动控制算法(**C**,**Matlab**)",
+			"搭建了机器人语音交互系统(**Android**,**Java**)",
+			"搭建了基于语音的智能家居控制平台(**Kotlin**)"
 		]
       }
 
@@ -127,7 +127,7 @@
       {
         "institution": "北京航空航天大学",
         "studyType": "硕士",
-		"area": "控制理论与控制工程",
+		"area": "自动化",
         "url": "http://www.buaa.edu.cn/",
         "start": "2009-09-01",
         "end": "2012-02-01",
@@ -145,7 +145,7 @@
         "name": "C",
         "level": "advanced",
         "skills": [
-          "Embedded", "STM32", "RTOS"
+          "Embedded", "STM32", "RTOS", "DSP"
         ]
       },
       {
@@ -158,7 +158,7 @@
       {
         "name": "Others",
         "level": "intermediate",
-        "skills": ["Python", "Matlab", "Database", "DSP", "Etc."]
+        "skills": ["Python", "Matlab", "Database", "Etc."]
       }
     ]
   },
