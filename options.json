@@ -1,0 +1,9 @@
+{
+  "wkhtmltopdf": {
+    "margin-top": "0mm",
+    "margin-bottom": "0mm",
+    "margin-left": "0mm",
+    "margin-right": "0mm",
+	"zoom": 1.5
+  }
+}
